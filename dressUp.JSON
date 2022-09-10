@@ -11,14 +11,14 @@
 	"admobinter": "ca-app-pub-3940256099942544/1033173712",
 	"admobreward": "ca-app-pub-3940256099942544/5224354917",
 	
-	"unityid": "4860399",
+	"unityid": "4403563",
 	"unitybanner": "Banner_Android",
 	"unityinter": "Interstitial_Android",
 	"unityreward": "Rewarded_Android",
 	
 		"ads switch explication ": "0:auto 1:admob 2 unity 3applovin",
 
-	"adsswitch": "0"
+	"adsswitch": "2"
 	
 
 
